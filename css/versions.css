@@ -2,7 +2,6 @@
     File Name: versions.css
 -------------------------------------------------------------------*/
 
-
 /*------------------------------------------------------------------
     [Table of contents]
 
@@ -10,13 +9,12 @@
  
 -------------------------------------------------------------------*/
 
-
 /*------------------------------------------------------------------
     1. CLINIC VERSION
 -------------------------------------------------------------------*/
 
 body.clinic_version {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 body.clinic_version .footer-links li:hover a,
@@ -31,9 +29,8 @@ body.clinic_version .lead strong,
 body.clinic_version .icon-wrapper:hover a,
 body.clinic_version a:hover,
 body.clinic_version a:focus {
-    color: #39b49a
+    color: #39b49a;
 }
-
 
 /**************************************
 GRADIENTS 
@@ -334,9 +331,9 @@ body.clinic_version .footer .widget-title h3 {
 }
 
 body.clinic_version .footer-links li {
-    border-bottom: 1px dashed rgba(0, 0, 0, 0.1)
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.1);
 }
 
 body.clinic_version .footer-links i {
-    border-right: 1px dashed rgba(0, 0, 0, 0.1)
+    border-right: 1px dashed rgba(0, 0, 0, 0.1);
 }
